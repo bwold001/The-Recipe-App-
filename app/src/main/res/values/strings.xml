@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FoodApp</string>
+    <string name="title_activity_ingredient_manual_entry">ingredient_manual_entry</string>
+</resources>
